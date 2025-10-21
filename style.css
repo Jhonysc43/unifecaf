@@ -1,0 +1,19 @@
+
+div{
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 15px;
+    color: rgb(11, 109, 201);
+    box-shadow: 3px 3px 5px black;
+}
+body{
+    background-color: rgb(11, 109, 201);
+}
+
+footer{
+    text-align: center;
+    color: aliceblue;
+}
